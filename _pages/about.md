@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am currently a second-year Master's student in Computer Science at [Northeastern University](https://neu.edu.cn/), focusing on Retrieval-Augmented Generation. Google Scholar: <a href='https://scholar.google.com/citations?user=9YgV-8MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am currently a second-year Master's student in Computer Science at [Northeastern University](https://neu.edu.cn/), focusing on Retrieval-Augmented Generation.
 
 
 Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works).
