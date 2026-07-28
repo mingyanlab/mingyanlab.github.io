@@ -152,7 +152,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 - *2023.10 - now*, [NEUIR Lab](https://neuir.github.io), [Northeastern University](https://neu.edu.cn/), Shenyang.
 
 # 🎼 Amateur
-- Dancing 💃: I've been danced for about nine years. My favorite dance styles are jazz and hiphop. And I also used to be a part-time dance teacher.
+- Dancing 💃: I've been dancing for about nine years. My favorite dance styles are jazz and hiphop. And I also used to be a part-time dance teacher.
 - Guitar 🎸: I am a beginner of guitar and I usually play folk guitar. 
 - Swimming 🏊: I’ve recently got into swimming and would like to learn more about it.
   
