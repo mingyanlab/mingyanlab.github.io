@@ -150,6 +150,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 # 💻 Internships
 - *2024.04 - now*, [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing.
 - *2023.10 - now*, [NEUIR Lab](https://neuir.github.io), [Northeastern University](https://neu.edu.cn/), Shenyang.
+- *2026.08 - now*, [Bosch Center for AI](https://www.bosch.com/research/bcai/), Shanghai. (Upcoming)
 
 # 🎼 Amateur
 - Dancing 💃: I've been dancing for about nine years. My favorite dance styles are jazz and hiphop. And I also used to be a part-time dance teacher.
