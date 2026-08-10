@@ -21,7 +21,7 @@ redirect_from:
 I am currently a second-year Master's student in Computer Science at [Northeastern University](https://neu.edu.cn/), focusing on Retrieval-Augmented Generation.
 
 
-Now I am engaged in research internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works).
+Now I am engaged in research internships at [Bosch Center for AI (BCAI)](https://www.bosch.com/research/bcai/), focusing on AI agents. Previously, I'm fortunated to have internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works).
 
 
 
@@ -148,13 +148,13 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.04 - now*, [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing.
-- *2023.10 - now*, [NEUIR Lab](https://neuir.github.io), [Northeastern University](https://neu.edu.cn/), Shenyang.
-- *2026.08 - now*, [Bosch Center for AI](https://www.bosch.com/research/bcai/), Shanghai. (Upcoming)
+- *2024.04 - 2026.08*, [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing.
+- *2023.10 - 2026.08*, [NEUIR Lab](https://neuir.github.io), [Northeastern University](https://neu.edu.cn/), Shenyang.
+- *2026.08 - now*, [Bosch Center for AI](https://www.bosch.com/research/bcai/), Shanghai. 
 
 # 🎼 Amateur
-- Dancing 💃: I've been dancing for about nine years. My favorite dance styles are jazz and hiphop. And I also used to be a part-time dance teacher.
-- Guitar 🎸: I am a beginner of guitar and I usually play folk guitar. 
+- Dancing 💃: I've been dancing for about nine years. My favorite dance styles are jazz and hip-hop. And I also used to be a part-time dance teacher.
+- Guitar 🎸: I am a beginner at guitar and I usually play folk guitar. 
 - Swimming 🏊: I’ve recently got into swimming and would like to learn more about it.
   
   If you share these interests, I would be glad to connect and grow together 📞.
