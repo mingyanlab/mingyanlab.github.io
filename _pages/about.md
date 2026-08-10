@@ -21,7 +21,7 @@ redirect_from:
 I am currently a second-year Master's student in Computer Science at [Northeastern University](https://neu.edu.cn/), focusing on Retrieval-Augmented Generation.
 
 
-Now I am engaged in research internships at [Bosch Center for AI (BCAI)](https://www.bosch.com/research/bcai/), focusing on AI agents. Previously, I'm fortunated to have internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works).
+Now I am engaged in research internships at [Bosch Center for AI (BCAI)](https://www.bosch.com/research/bcai/), focusing on AI agents. Previously, I was fortunate to have internships at [NEUIR Lab](https://neuir.github.io/) under the guidance of Associate Professor [Zhenghao Liu](https://edwardzh.github.io/), as well as at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), supervised by [Yukun Yan](https://scholar.google.com/citations?hl=en&user=B88nSvIAAAAJ&view_op=list_works).
 
 
 
@@ -37,7 +37,7 @@ My research focuses on agentic systems that integrate external knowledge, effici
 I am looking for a Ph.D. position starting in Fall 2027 and would love to explore potential collaborations. Let’s connect!
 </span> 
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- My research interests include neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
@@ -58,7 +58,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 **Mingyan Wu<sup>\*</sup>**, [Han Yang<sup>\*</sup>](https://scholar.google.com/citations?user=EeCYEKwAAAAJ&hl=en), [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
 
 [**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) \| [![GitHub stars](https://img.shields.io/github/stars/Mignonmy/Cost-Aware?style=social)](https://github.com/Mignonmy/Cost-Aware)
-- This work introduces cost-aware RAG, a setting where retrieved evidence is assigned accesscost tiers and systems must answer under an explicit evidence-access budget. We instantiate this setting by augmenting MS MARCO v2.1 with access-friction tiers and evaluate budgeted evidence selection across generaldomain and domain-specific QA benchmarks.
+- This work introduces cost-aware RAG, a setting where retrieved evidence is assigned access-cost tiers and systems must answer under an explicit evidence-access budget. We instantiate this setting by augmenting MS MARCO v2.1 with access-friction tiers and evaluate budgeted evidence selection across general-domain and domain-specific QA benchmarks.
 </div>
 </div>
 
@@ -148,9 +148,10 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2026.08 - now*, [Bosch Center for AI](https://www.bosch.com/research/bcai/), Shanghai. 
 - *2024.04 - 2026.08*, [THUNLP](https://nlp.csai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing.
 - *2023.10 - 2026.08*, [NEUIR Lab](https://neuir.github.io), [Northeastern University](https://neu.edu.cn/), Shenyang.
-- *2026.08 - now*, [Bosch Center for AI](https://www.bosch.com/research/bcai/), Shanghai. 
+
 
 # 🎼 Amateur
 - Dancing 💃: I've been dancing for about nine years. My favorite dance styles are jazz and hip-hop. And I also used to be a part-time dance teacher.
