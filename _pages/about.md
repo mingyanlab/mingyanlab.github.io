@@ -49,8 +49,50 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 # 📝 Publications 
 > \* indicates **equal contribution**, and † indicates **corresponding author**.
 
+<!-- RankCoT -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/RankCoT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts
+
+**Mingyan Wu**, [Zhenghao Liu<sup>†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ),[Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), [Shi Yu](https://scholar.google.com/citations?user=xcMVPTgAAAAJ), [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Yu Gu](https://scholar.google.com/citations?user=IDYbTZwAAAAJ), [Ge Yu](https://scholar.google.com/citations?user=HClMOmUAAAAJ)
+
+[**📃Paper**](https://aclanthology.org/2025.acl-long.629/) \| [**📄PDF**](https://aclanthology.org/2025.acl-long.629.pdf) \| [![GitHub stars](https://img.shields.io/github/stars/NEUIR/RankCoT?style=social)](https://github.com/NEUIR/RankCoT)
+
+- This work leverages the strengths of both ranking and summarization to effectively refine the knowledge from retrieval results, thereby aiding LLMs in generating more accurate responses.
+</div>
+</div>
+
+<!-- GraphAnchor
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/GraphAnchor.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# Graph-Anchored Knowledge Indexing for Retrieval-Augmented Generation
+
+[Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), **Mingyan Wu<sup>*</sup>**, [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
+
+[**📃Paper**](https://www.arxiv.org/abs/2601.16462) \| [**📄PDF**](https://www.arxiv.org/pdf/2601.16462) \| [![](https://img.shields.io/github/stars/NEUIR/GraphAnchor?style=social&label=Code+Stars)](https://github.com/NEUIR/GraphAnchor)
+
+- This work reconceptualizes knowledge graphs as dynamically evolving indices that anchor salient entities and relations to guide iterative retrieval and answer generation.
+</div>
+</div> -->
+
+<!-- KAIR -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/KAIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# Finding What Matters: Anchoring Context Knowledge with Evolving Indices for Iterative Retrieval
+
+**Mingyan Wu<sup>\*</sup>**, [Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), Yuqing Lan, [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
+
+[**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![GitHub stars](https://img.shields.io/github/stars/NEUIR/KAIR?style=social)](https://github.com/NEUIR/KAIR)
+
+- This work proposes a Knowledge Anchoring framework for Iterative Retrieval that anchors knowledge within retrieved knowledge to guide LLMs to locate the key information during iterative retrieval and answer generation.
+</div>
+</div>
+
 <!-- Cost-Aware -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/Cost-Aware.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/Cost-Aware.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # When Knowledge Is Not Free: Cost-Aware Evidence Selection in Retrieval-Augmented Generation
@@ -90,48 +132,6 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 <!-- \| [![](https://img.shields.io/github/stars/camel-ai/eigent_search?label=Code+Stars)](https://github.com/camel-ai/eigent_search) -->
 
 - This work introduces Q+, a set of query and evidence processing tools that make web search more deliberate by guiding query planning, monitoring search progress, and extracting evidence from long web snapshots. 
-</div>
-</div>
-
-<!-- RankCoT -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/RankCoT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-# RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts
-
-**Mingyan Wu**, [Zhenghao Liu<sup>†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ),[Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), [Shi Yu](https://scholar.google.com/citations?user=xcMVPTgAAAAJ), [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Yu Gu](https://scholar.google.com/citations?user=IDYbTZwAAAAJ), [Ge Yu](https://scholar.google.com/citations?user=HClMOmUAAAAJ)
-
-[**📃Paper**](https://aclanthology.org/2025.acl-long.629/) \| [**📄PDF**](https://aclanthology.org/2025.acl-long.629.pdf) \| [![GitHub stars](https://img.shields.io/github/stars/NEUIR/RankCoT?style=social)](https://github.com/NEUIR/RankCoT)
-
-- This work leverages the strengths of both ranking and summarization to effectively refine the knowledge from retrieval results, thereby aiding LLMs in generating more accurate responses.
-</div>
-</div>
-
-<!-- GraphAnchor
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/GraphAnchor.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-# Graph-Anchored Knowledge Indexing for Retrieval-Augmented Generation
-
-[Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), **Mingyan Wu<sup>*</sup>**, [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
-
-[**📃Paper**](https://www.arxiv.org/abs/2601.16462) \| [**📄PDF**](https://www.arxiv.org/pdf/2601.16462) \| [![](https://img.shields.io/github/stars/NEUIR/GraphAnchor?style=social&label=Code+Stars)](https://github.com/NEUIR/GraphAnchor)
-
-- This work reconceptualizes knowledge graphs as dynamically evolving indices that anchor salient entities and relations to guide iterative retrieval and answer generation.
-</div>
-</div> -->
-
-<!-- KAIR -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Print</div><img src='images/KAIR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-# Finding What Matters: Anchoring Context Knowledge with Evolving Indices for Iterative Retrieval
-
-**Mingyan Wu<sup>\*</sup>**, [Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), Yuqing Lan, [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
-
-[**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![GitHub stars](https://img.shields.io/github/stars/NEUIR/KAIR?style=social)](https://github.com/NEUIR/KAIR)
-
-- This work proposes a Knowledge Anchoring framework for Iterative Retrieval that anchors knowledge within retrieved knowledge to guide LLMs to locate the key information during iterative retrieval and answer generation.
 </div>
 </div>
 
