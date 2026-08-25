@@ -41,6 +41,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Our paper "Finding What Matters" is accepted by EMNLP 2026, and "When Knowledge Is Not Free" is accepted by EMNLP 2026 Findings!
 - *2026.04*: &nbsp;🎉 Our paper EigentSearch-Q+ is accepted by ACM CAIS 2026 Demos!
 - *2025.08*: &nbsp;🎉 We released [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG) [![](https://img.shields.io/github/stars/OpenBMB/UltraRAG?style=social&label=Code+Stars)](https://github.com/OpenBMB/UltraRAG), an low-code framework for building complex RAG systems!
 - *2025.05*: &nbsp;🎉 Our paper RankCoT is accepted by ACL 2025!
