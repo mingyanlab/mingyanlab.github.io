@@ -93,7 +93,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 </div>
 
 <!-- Cost-Aware -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/Cost-Aware.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/Cost-Aware.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # When Knowledge Is Not Free: Cost-Aware Evidence Selection in Retrieval-Augmented Generation
