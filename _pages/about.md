@@ -27,7 +27,7 @@ Previously, I was fortunate to have internships at [NEUIR Lab](https://neuir.git
 
 # 🔎 Research Interests
 My research focuses on agentic systems that integrate external knowledge, efficient reasoning, and scalable infrastructure. These span:
-- **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [KAIR](https://arxiv.org/abs/2601.16462), [Cost-Aware](https://arxiv.org/abs/2606.02245)), Deep Research ([EigentSearch-Q+](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002)), AI Memory.
+- **How can models utilize external knowledge**: Retrieval-Augmented Generation ([RankCoT](https://aclanthology.org/2025.acl-long.629/), [KAIR](https://aclanthology.org/2026.emnlp-main.558/), [Cost-Aware](https://aclanthology.org/2026.findings-emnlp.413/)), Deep Research ([EigentSearch-Q+](https://dl.acm.org/doi/10.1145/3786335.3813186#artseq-00002)), AI Memory.
 - **How can models reason efficiently**: Reasoning Compression ([Mixed-Policy Distillation](https://arxiv.org/abs/2605.08776)), Multi-Modal Reasoning.
 - **Agent Infrastructure**: [UltraRAG 2.0](https://github.com/OpenBMB/UltraRAG), [camel-ai](https://github.com/camel-ai).
 
@@ -86,7 +86,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 **Mingyan Wu<sup>\*</sup>**, [Zhenghao Liu<sup>*†</sup>](https://scholar.google.com/citations?user=4vrZRk0AAAAJ), [Xinze Li](https://scholar.google.com/citations?user=Feo2PhwAAAAJ), Yuqing Lan, [Yukun Yan<sup>†</sup>](https://scholar.google.com/citations?user=B88nSvIAAAAJ), [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ), [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ), Minghe Yu, [Zheni Zeng](https://scholar.google.com/citations?hl=zh-CN&user=CM3VSeQAAAAJ), [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2601.16462) \| [**📄PDF**](https://arxiv.org/pdf/2601.16462) \| [![GitHub stars](https://img.shields.io/github/stars/NEUIR/KAIR?style=social)](https://github.com/NEUIR/KAIR)
+[**📃Paper**](https://aclanthology.org/2026.emnlp-main.558/) \| [**📄PDF**](https://aclanthology.org/2026.emnlp-main.558.pdf) \| [![GitHub stars](https://img.shields.io/github/stars/NEUIR/KAIR?style=social)](https://github.com/NEUIR/KAIR)
 
 - This work proposes a Knowledge Anchoring framework for Iterative Retrieval that anchors knowledge within retrieved knowledge to guide LLMs to locate the key information during iterative retrieval and answer generation.
 </div>
@@ -100,7 +100,7 @@ I am looking for a Ph.D. position starting in Fall 2027 and would love to explor
 
 **Mingyan Wu<sup>\*</sup>**, [Han Yang<sup>\*</sup>](https://scholar.google.com/citations?user=EeCYEKwAAAAJ&hl=en), [Omer Ben-Porat](https://scholar.google.com/citations?user=GGHVmOsAAAAJ), [Yftah Ziser<sup>†</sup>](https://scholar.google.com/citations?user=37SMCrsAAAAJ)
 
-[**📃Paper**](https://arxiv.org/abs/2606.02245) \| [**📄PDF**](https://arxiv.org/pdf/2606.02245) \| [![GitHub stars](https://img.shields.io/github/stars/Mignonmy/Cost-Aware?style=social)](https://github.com/Mignonmy/Cost-Aware)
+[**📃Paper**](https://aclanthology.org/2026.findings-emnlp.413/) \| [**📄PDF**](https://aclanthology.org/2026.findings-emnlp.413.pdf) \| [![GitHub stars](https://img.shields.io/github/stars/Mignonmy/Cost-Aware?style=social)](https://github.com/Mignonmy/Cost-Aware)
 - This work introduces cost-aware RAG, a setting where retrieved evidence is assigned access-cost tiers and systems must answer under an explicit evidence-access budget. We instantiate this setting by augmenting MS MARCO v2.1 with access-friction tiers and evaluate budgeted evidence selection across general-domain and domain-specific QA benchmarks.
 </div>
 </div>
